@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.main{
+    padding-top: 50px;
+}
+b{
+    font-size: 20px;
+}
+.calculator{
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    width: 300px;
+   border-radius: 10%;
+    margin: auto;
+    padding: 40px 60px 40px 60px;
+    color: black;
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    gap: 5px;
+    
+}
+.calculator>div{
+    width: 50px;
+    height: 38px;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+#space{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    padding-right: 230px;
+}
+.black{
+    color: white;
+    background-color: black;
+    font: bolder;
+} 
+.red {
+    color: white;
+    background-color: red;
+}
