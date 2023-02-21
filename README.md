@@ -27,6 +27,10 @@ A short video demo of the complete project:
 
 
 
+https://user-images.githubusercontent.com/112818778/220412735-8350d3a0-4396-48a7-bbfd-7b96b45ceca5.mp4
+
+
+
 
 
 
@@ -48,7 +52,7 @@ A short video demo of the complete project:
 
 ## Deployment
 
-The deployed link of the project: 
+The deployed link of the project: https://evaluatecalculator.netlify.app/
 #### 
 
 ## Contributions
